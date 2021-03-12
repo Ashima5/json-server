@@ -1,9 +1,47 @@
-{
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+[
+  {
+    "date": "23-02-2021",
+    "time": "12:37",
+    "water_consumed": 20
+  },
+  {
+    "date": "24-02-2021",
+    "time": "12:40",
+    "water_consumed": 30
+  },
+  {
+    "date": "25-02-2021",
+    "time": "12:52",
+    "water_consumed": 40
+  },
+  {
+    "date": "26-02-2021",
+    "time": "12:55",
+    "water_consumed": 50
+  },
+  {
+    "date": "27-02-2021",
+    "time": "12:37",
+    "water_consumed": 60
+  },
+  {
+    "date": "28-02-2021",
+    "time": "12:22",
+    "water_consumed": 70
+  },
+  {
+    "date": "01-03-2021",
+    "time": "12:45",
+    "water_consumed": 80
+  },
+  {
+    "date": "02-03-2021",
+    "time": "12:26",
+    "water_consumed": 90
+  },
+  {
+    "date": "03-03-2021",
+    "time": "12:37",
+    "water_consumed": 100
+  }
+]
